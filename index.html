@@ -1,10 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My site!</title>
+    <style>
+        body {
+            font-family: "Montserrat", sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-weight: bold;
+        }
+        img {
+            max-width: 70%;
+            display: block;
+            margin: 0 auto;
+            border-radius: 15px;
+        }
+        p {
+            margin-top: 10px;
+            font-size: 16px; /* Tamanho do texto para desktop */
+        }
+
+        @media screen and (max-width: 768px) {
+            img {
+                max-width: 90%;
+            }
+            p {
+                font-size: 20px; /* Tamanho do texto para mobile */
+            }
+        }
+        
+        @media screen and (min-width: 769px) {
+            img {
+                max-width: 40%;
+            }
+            p {
+                font-size: 18px; /* Aumenta o tamanho do texto para desktop */
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
 </head>
 <body>
-    <h1>This is my GitHub website</h1>
+    <h1>SITE DO RAFINHA:</h1>
     <img src="image.jpg" alt="My Image">
+    <p>Bem-vindo ao site do rafinha, um futuro dev full stack, volte para esse site em 1 mês e veja a minha evolução</p>
+    
+    <form action="submit_feedback" method="post">
+        <label for="rating">Dê uma nota para o site:</label>
+        <select id="rating" name="rating">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+        <button type="button">Enviar</button>
+    </form>
 </body>
 </html>
+
+
+
