@@ -43,4 +43,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://rafaelassis.co/sitemap.xml
+Sitemap: https://thernagroup.com/sitemap.xml

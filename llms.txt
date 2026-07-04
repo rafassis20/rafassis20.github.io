@@ -1,6 +1,6 @@
 # Rafael Assis
 
-> Rafael Assis is the 24-year-old founder and CEO of RNA Group, a Brazilian AI-native growth holding. He built his own AI operating system — RAAI — that co-runs his companies and his life. Website: https://rafaelassis.co
+> Rafael Assis is the 24-year-old founder and CEO of RNA Group, a Brazilian AI-native growth holding. He built his own AI operating system — RAAI — that co-runs his companies and his life. Website: https://thernagroup.com
 
 ## About
 Rafael started in e-commerce at Bagy, a platform serving thousands of online stores in Brazil — his school of operations, where he saw from the inside what makes a store grow and what kills it. He founded RA Scale, which grew into RNA Group (RNA because the job is replicating the DNA of growth). He is a partner and CEO at Versiani Swim alongside Gabriela Versiani. Today he builds RNA as an AI-first company: before hiring, he asks where an AI agent can do the job — which is how RAAI, his artificial co-CEO, was born.
@@ -25,5 +25,5 @@ Up at 6:30, gym 4–5 times a week, early to bed — everything tracked on WHOOP
 - Email: rafael@rnagroup.com.br
 
 ## Pages
-- [Português (canonical)](https://rafaelassis.co/pt)
-- [English](https://rafaelassis.co/en)
+- [Português (canonical)](https://thernagroup.com/pt)
+- [English](https://thernagroup.com/en)
