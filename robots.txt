@@ -43,4 +43,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://thernagroup.com/sitemap.xml
+Sitemap: https://rafaelassisc.com/sitemap.xml

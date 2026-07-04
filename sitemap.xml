@@ -3,19 +3,19 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://thernagroup.com/pt</loc>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://thernagroup.com/pt"/>
-    <xhtml:link rel="alternate" hreflang="en"    href="https://thernagroup.com/en"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://thernagroup.com/pt"/>
+    <loc>https://rafaelassisc.com/pt</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://rafaelassisc.com/pt"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://rafaelassisc.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rafaelassisc.com/pt"/>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://thernagroup.com/en</loc>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://thernagroup.com/pt"/>
-    <xhtml:link rel="alternate" hreflang="en"    href="https://thernagroup.com/en"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://thernagroup.com/pt"/>
+    <loc>https://rafaelassisc.com/en</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://rafaelassisc.com/pt"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://rafaelassisc.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rafaelassisc.com/pt"/>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
